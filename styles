@@ -1,0 +1,31 @@
+body {
+    background-color: #EEF2E6;
+}
+hr{
+    background-color: none;
+    border-style: dotted none none;
+    border-color: #D6CDA4;
+    border-width: 7px;    
+}
+#Name {
+    color: #1C6758;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Education {
+    color: #1C6758  ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: #1C6758  ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+td {
+    font-family: Arial, Helvetica, sans-serif;
+}
+label {
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Comment in CSS*/
